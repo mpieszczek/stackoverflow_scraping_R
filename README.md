@@ -15,8 +15,7 @@ and set custom range of pages e.g.
 stack_quest <- strony[1:10] %>% map_dfr(zbieraj)
 ```
 
-This is university project, so conclusions are not exhaustive due to time restrictions of semester.
-
-You can check `Stack.html` to see results for whole history.
-
+This is university project, so conclusions are not exhaustive due to time restrictions of semester. Only some simple analysis was made.
 The `app.R` is a ShinyApp with some interactive time-series build on scrapped data.
+
+### For summary, you can check either `Stack.html` or `Stack.pdf`.
